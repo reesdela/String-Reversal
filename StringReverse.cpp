@@ -24,6 +24,7 @@ int main()
     {
         cout << *rit;
         cout << "lol";
+        cout << "la";
     }
     cout << endl;
 
