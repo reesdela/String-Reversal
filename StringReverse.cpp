@@ -23,6 +23,7 @@ int main()
     for(; rit != reverse.rend(); rit++)
     {
         cout << *rit;
+        cout << "lol";
     }
     cout << endl;
 
