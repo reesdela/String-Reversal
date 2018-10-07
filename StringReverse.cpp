@@ -23,8 +23,13 @@ int main()
     for(; rit != reverse.rend(); rit++)
     {
         cout << *rit;
+<<<<<<< HEAD
         cout << "lol";
         cout << "laaaa";
+        cout << "fuck";
+        cout << "this";
+=======
+>>>>>>> parent of 3da37df... Update StringReverse.cpp
     }
     cout << endl;
 
